@@ -23,6 +23,9 @@
 	renames = copies
 	mnemonicprefix = true
 
+[push]
+	default = simple
+
 [color]
 	ui = auto
         diff = auto
