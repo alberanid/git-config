@@ -4,6 +4,8 @@ My own ~/.gitconfig; with some useful aliases.
 
 ## Installation
 
+If you want to use it, don't forget to change email, username and so on.
+
     cp gitconfig ~/.gitconfig
 
 ## Author and license
