@@ -23,6 +23,9 @@
 	renames = copies
 	mnemonicprefix = true
 
+[pull]
+	rebase = true
+
 [push]
 	default = simple
 
